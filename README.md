@@ -1,3 +1,7 @@
+Install Version 0.40
+
+
+
 # [Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli)
 
 [![Download from PyPI](https://img.shields.io/pypi/v/academic.svg?style=for-the-badge)](https://pypi.python.org/pypi/academic)
